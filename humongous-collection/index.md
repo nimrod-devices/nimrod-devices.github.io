@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Humongous Collection (3 DVD Set)"
+title: Humongous Collection (3 DVD Set)
 ---
 
 # Humongous Collection (3 DVD Set)
