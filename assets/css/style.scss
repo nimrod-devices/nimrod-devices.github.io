@@ -34,7 +34,7 @@ ul li {
 }
 
 ul li::before {
-  content: ">>";
+  content: ">> ";
   font-family: "3x5 Microfont Mono", monospace;
   color: #b5e853;
 }
