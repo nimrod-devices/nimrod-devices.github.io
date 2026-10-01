@@ -3,7 +3,9 @@ layout: default
 title: Humongous Collection (3 DVD Set)
 ---
 
-<h1 align="center">Humongous Collection (3 DVD Set)</h1>
+<header>
+  <h1 align="center">Humongous Collection (3 DVD Set)</h1>
+</header>
 
 ## Download Options
 - <a href="https://drive.google.com/drive/folders/1CL1tkFbq0vU7fBG9TMU9z9LP7TtWmeK5">[GOOGLE DRIVE]</a>
