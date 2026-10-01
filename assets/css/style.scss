@@ -32,6 +32,13 @@ ul li {
   list-style-type: disc;
 }
 
+ul li::before {
+  content: ">>";
+  position: absolute;
+  left: 0;
+  font-family: "3x5 Microfont Mono", monospace;
+}
+
 body, h1, h2, h3, h4, h5, h6, header h1, header h2, ul li::marker {
   font-family: "3x5 Microfont", sans-serif;
 }
