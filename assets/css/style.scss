@@ -27,7 +27,12 @@ code pre kbd samp {
   line-height: normal;
 }
 
-body, h1, h2, h3, h4, h5, h6, header h1, header h2 {
+ul li {
+  list-style-image: none !important;
+  list-style-type: disc;
+}
+
+body, h1, h2, h3, h4, h5, h6, header h1, header h2, ul li::marker {
   font-family: "3x5 Microfont", sans-serif;
 }
 
