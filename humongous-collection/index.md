@@ -1,5 +1,5 @@
 ---
-layout: humongous
+layout: default
 title: Humongous Collection
 ---
 
