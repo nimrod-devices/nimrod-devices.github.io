@@ -37,9 +37,7 @@ ul li::before {
   color: #b5e853;
 }
 
-main ul:not(li ul),
-.wrapper > ul,
-#content > ul {
+main ul:not(li ul) {
   padding-left: 0 !important;
   margin-left: 0 !important;
 }
