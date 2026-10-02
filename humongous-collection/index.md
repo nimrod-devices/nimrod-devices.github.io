@@ -3,7 +3,7 @@ layout: default
 title: Humongous Collection
 ---
 
-<h1 align="center" style="font-size: 48px;">Humongous Collection</h1>
+<h1 align="center" style="font-size: 56px !important;">Humongous Collection</h1>
 
 # Downloads
 - 3 DVD-ROM Set
