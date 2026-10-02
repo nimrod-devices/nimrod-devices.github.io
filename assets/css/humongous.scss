@@ -2,12 +2,10 @@
 ---
 
 $body-background: #cdccff;
-$body-foreground: #533373;
-$header: #7b639f;
-/*
-$blockquote-color: $silver-chalice;
-$blockquote-border: $dove-grey;
-*/
+$body-foreground: #7b639f;
+$header: #533373;
+$blockquote-color: #dedeff;
+$blockquote-border: #533373;
 $link: 30072ff;
 
 {% include default-styles.scss %}
