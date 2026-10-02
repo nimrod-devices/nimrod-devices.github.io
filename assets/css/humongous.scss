@@ -10,3 +10,8 @@ $blockquote-border: $dove-grey;
 */
 
 {% include default-styles.scss %}
+
+body {
+  background-image: none !important;
+  /*background-color: #{$body-background};*/
+}
