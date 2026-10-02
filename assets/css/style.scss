@@ -31,15 +31,15 @@ ul li {
   list-style: none !important;
 }
 
+ul:not(li ul) {
+  padding-left: 0 !important;
+  margin-left: 0 !important;
+}
+
 ul li::before {
   content: ">> ";
   font-family: "3x5 Microfont Mono", monospace;
   color: #b5e853;
-}
-
-main ul:not(li ul) {
-  padding-left: 0 !important;
-  margin-left: 0 !important;
 }
 
 body, h1, h2, h3, h4, h5, h6, header h1, header h2, ul li::marker {
