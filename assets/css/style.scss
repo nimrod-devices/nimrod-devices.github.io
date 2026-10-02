@@ -3,7 +3,7 @@
 @import "{{ site.theme }}";
 
 :root {
-  --highlight: $brand-color;
+  --highlight: #{$brand-color};
 }
 
 @font-face {
