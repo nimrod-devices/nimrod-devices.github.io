@@ -3,7 +3,7 @@
 @import "{{ site.theme }}";
 
 :root {
-  --highlight-color: {$conifer};
+  --highlight-color: $conifer;
 }
 
 @font-face {
