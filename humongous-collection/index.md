@@ -55,8 +55,8 @@ The BD-ROM version contains all the games on a single Blu-ray disc.
   - Let's Explore the Farm with Buzzy the Knowledge Bug (1994)
   - Let's Explore the Airport with Buzzy the Knowledge Bug (1995)
   - Let's Explore the Jungle with Buzzy the Knowledge Bug (1995)
-- MoonBase Commander <span style="color: var(--highlight-color);">[DVD 3]</span>
-  - MoonBase Commander (2002)
+- Moonbase Commander <span style="color: var(--highlight-color);">[DVD 3]</span>
+  - Moonbase Commander (2002)
 - Pajama Sam <span style="color: var(--highlight-color);">[DVD 2]</span>
   - Pajama Sam 1: No Need to Hide When It's Dark Outside (1996)
   - Pajama Sam's Sock Works (1997)
