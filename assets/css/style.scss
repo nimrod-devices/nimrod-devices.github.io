@@ -30,13 +30,13 @@ code pre kbd samp {
 ul li {
   list-style: none !important;
   line-height: 1em !important;
-  padding-left: 1.75em !important; 
   text-indent: -1.75em !important; 
 }
 
 ul:not(li ul) {
   padding-left: 0 !important;
   margin-left: 0 !important;
+  padding-left: 1.75em !important; 
 }
 
 ul li::before {
