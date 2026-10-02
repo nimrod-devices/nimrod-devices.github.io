@@ -2,6 +2,10 @@
 ---
 @import "{{ site.theme }}";
 
+:root {
+  --highlight: $brand-color;
+}
+
 @font-face {
   font-family: '3x5 Microfont';
   src: url('https://raw.githubusercontent.com/nimaid/microfont/refs/heads/main/3x5-Microfont.woff2') format('woff2');
@@ -42,7 +46,7 @@ ul:not(li ul) {
 ul li::before {
   content: ">> ";
   font-family: "3x5 Microfont Mono", monospace;
-  color: $brand-color;
+  color: --highlight;
   display: inline-block;
   width: 1.75em;
   text-indent: 0; 
