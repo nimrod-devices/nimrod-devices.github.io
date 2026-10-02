@@ -37,8 +37,11 @@ ul li::before {
   color: #b5e853;
 }
 
-ul {
-  padding-left: 1.5em;
+main ul:not(li ul),
+.wrapper > ul,
+#content > ul {
+  padding-left: 0 !important;
+  margin-left: 0 !important;
 }
 
 body, h1, h2, h3, h4, h5, h6, header h1, header h2, ul li::marker {
