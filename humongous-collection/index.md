@@ -14,9 +14,9 @@ title: Humongous Collection
   - <a href="magnet:?xt=urn:btih:9eec3acf4ea01cf36b7434f8d3157cbaf0cc2790&dn=Humongous%20Collection%20%28BD-ROM%29&xl=12679505022&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce">[MAGNET LINK]</a>
 
 # Included Games
-The DVD-ROM version of this collection has the game series split up between 3 DVDs.
+The DVD-ROM version of this collection has the game series split up between 3 DVD discs.
 
-The BD-ROM version contains all the games on a single disc.
+The BD-ROM version contains all the games on a single Blu-ray disc.
 
 - Backyard Sports [DVD #3]
   - Backyard Baseball (1997)
