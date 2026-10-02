@@ -47,6 +47,12 @@ ul li::before {
   margin-right: 0.5em; 
 }
 
+ul li:has(ul), 
+ul li:has(ol) {
+  flex-direction: column !important;
+  align-items: flex-start;
+}
+
 body, h1, h2, h3, h4, h5, h6, header h1, header h2, ul li::marker {
   font-family: "3x5 Microfont", sans-serif;
   line-height: 1em !important;
