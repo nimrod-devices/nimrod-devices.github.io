@@ -30,12 +30,12 @@ code pre kbd samp {
 ul li {
   list-style: none !important;
 }
-
+/*
 ul:not(li ul) {
   padding-left: 0 !important;
   margin-left: 0 !important;
 }
-
+*/
 ul li::before {
   content: ">> ";
   font-family: "3x5 Microfont Mono", monospace;
