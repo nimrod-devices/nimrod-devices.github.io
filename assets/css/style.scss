@@ -3,7 +3,7 @@
 @import "{{ site.theme }}";
 
 :root {
-  --highlight: #{$brand-color};
+  --highlight-color: #{$brand-color};
 }
 
 @font-face {
@@ -46,7 +46,7 @@ ul:not(li ul) {
 ul li::before {
   content: ">> ";
   font-family: "3x5 Microfont Mono", monospace;
-  color: --highlight;
+  color: --highlight-color;
   display: inline-block;
   width: 1.75em;
   text-indent: 0; 
