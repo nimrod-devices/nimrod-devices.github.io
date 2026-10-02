@@ -29,6 +29,7 @@ code pre kbd samp {
 
 ul li {
   list-style: none !important;
+  line-height: 1em !important;
 }
 
 ul:not(li ul) {
@@ -64,4 +65,5 @@ h2 {
 
 body {
   font-size: 24px !important;
+  line-height: 0.5em !important;
 }
