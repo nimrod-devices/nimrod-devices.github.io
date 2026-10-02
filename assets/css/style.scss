@@ -30,8 +30,8 @@ code pre kbd samp {
 ul li {
   list-style: none !important;
   line-height: 1em !important;
-  display: flex !important;
-  align-items: flex-start;
+  padding-left: 1.75em !important; 
+  text-indent: -1.75em !important; 
 }
 
 ul:not(li ul) {
@@ -43,14 +43,9 @@ ul li::before {
   content: ">> ";
   font-family: "3x5 Microfont Mono", monospace;
   color: #b5e853;
-  flex-shrink: 0;
-  margin-right: 0.5em; 
-}
-
-ul li:has(ul), 
-ul li:has(ol) {
-  flex-direction: column !important;
-  align-items: flex-start;
+  display: inline-block;
+  width: 1.75em;
+  text-indent: 0; 
 }
 
 body, h1, h2, h3, h4, h5, h6, header h1, header h2, ul li::marker {
