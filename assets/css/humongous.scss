@@ -1,6 +1,12 @@
 ---
 ---
 
+$body-background: #cdccff;
+$body-foreground: #7b639f;
 $header: #533373;
+/*
+$blockquote-color: $silver-chalice;
+$blockquote-border: $dove-grey;
+*/
 
 {% include default-styles.scss %}
