@@ -52,9 +52,9 @@ The BD-ROM version contains all the games on a single Blu-ray disc.
   - Freddi Fish's One-Stop Fun Shop (2000)
   - Freddi Fish 5: The Case of the Creature of Coral Cove (2001)
 - Junior Field Trips <span style="color: var(--highlight-color);">[DVD 1]</span>
-  - Let's Explore the Farm with Buzzy the Knowledge Bug(1994)
-  - Let's Explore the Airport with Buzzy the Knowledge Bug(1995)
-  - Let's Explore the Jungle with Buzzy the Knowledge Bug(1995)
+  - Let's Explore the Farm with Buzzy the Knowledge Bug (1994)
+  - Let's Explore the Airport with Buzzy the Knowledge Bug (1995)
+  - Let's Explore the Jungle with Buzzy the Knowledge Bug (1995)
 - MoonBase Commander <span style="color: var(--highlight-color);">[DVD 3]</span>
   - MoonBase Commander (2002)
 - Pajama Sam <span style="color: var(--highlight-color);">[DVD 2]</span>
