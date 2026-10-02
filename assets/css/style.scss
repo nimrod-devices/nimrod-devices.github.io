@@ -30,6 +30,8 @@ code pre kbd samp {
 ul li {
   list-style: none !important;
   line-height: 1em !important;
+  display: flex !important;
+  align-items: flex-start;
 }
 
 ul:not(li ul) {
@@ -41,6 +43,8 @@ ul li::before {
   content: ">> ";
   font-family: "3x5 Microfont Mono", monospace;
   color: #b5e853;
+  flex-shrink: 0;
+  margin-right: 0.5em; 
 }
 
 body, h1, h2, h3, h4, h5, h6, header h1, header h2, ul li::marker {
