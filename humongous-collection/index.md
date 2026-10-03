@@ -9,10 +9,10 @@ title: Humongous Collection
 # Downloads
 - 3 DVD-ROM Set
   - <a href="https://drive.google.com/drive/folders/1CL1tkFbq0vU7fBG9TMU9z9LP7TtWmeK5">[GOOGLE DRIVE]</a>
-  - <a href="magnet:?xt=urn:btih:5f9c4ea6ed69e7e77c57279d0382c328c6122681&dn=Humongous%20Collection%20%283%20DVD-ROM%20Set%29&xl=13112481913&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce">[MAGNET LINK]</a>
+  - <a href="magnet:?xt=urn:btih:053aef064dfca7ea8fa57a4e6c372aa7b4b199e0&dn=Humongous%20Collection%20%283%20DVD-ROM%20Set%29&xl=13112341015&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce">[MAGNET LINK]</a>
 - BD-ROM
   - <a href="https://drive.google.com/drive/folders/1I4RSSHDaRd4DgBy6jJA_bBxS3XNiK9U-">[GOOGLE DRIVE]</a>
-  - <a href="magnet:?xt=urn:btih:341b07d59df4d6419b21298e8e4e1166c953afe0&dn=Humongous%20Collection%20%28BD-ROM%29&xl=12680321758&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce">[MAGNET LINK]</a>
+  - <a href="magnet:?xt=urn:btih:98cc5ed70cdbb25a828cbd741897c3f8107ff9eb&dn=Humongous%20Collection%20%28BD-ROM%29&xl=12680249408&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce">[MAGNET LINK]</a>
 
 # Included Games
 The DVD-ROM version of this collection has the games split up between 3 DVD discs.
